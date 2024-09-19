@@ -1,11 +1,11 @@
 /* Base styles for mobile-first design */
 
 body{
-    background-color: #FFFFFF;
+    background-color: white;
 }
 
 nav {
-    background-color: darkblue;
+    background-color: red;
     overflow: hidden;
     border-radius: 5px;
 }
