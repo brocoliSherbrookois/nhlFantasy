@@ -9,6 +9,7 @@ require_once './class/DataFetcher.php'; ?>
    
 
    // Fetch daily scores
+   //Il va avoir du code dans cette partie essaie 2
    
 ?>
 
